@@ -1,0 +1,13 @@
+openai
+ipykernel
+jupyter
+pandas 
+numpy 
+matplotlib
+scikit-learn
+seaborn
+transformers
+torch
+datasets
+pypdf
+pinecone
